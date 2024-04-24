@@ -6,13 +6,13 @@ I am a software development student with Codespace, I am also a 2nd year Bcom In
 - :bookmark: CSS
 - :page_facing_up: JS
 
-## Examples of work and language used 
+## Examples of work and languages used 
 
-- *[Cache bank landing page](https://github.com/Masego11/SDF_Portfolio_Piece_TLAKHO601_FTO2403_Group-C_Tlalemasego-Khongoana_SDF11)*
- - *HTML, JS, CSS*
+- *[Cache bank landing page](https://github.com/Masego11/SDF_Portfolio_Piece_TLAKHO601_FTO2403_Group-C_Tlalemasego-Khongoana_SDF11)* - *HTML, JS, CSS*
+ 
 
-- *[Personal profile](https://github.com/Masego11/Module_8_TLAKHO601_FTO2403_Group-C_Tlalemasego-Khongoana_SDF08)*
- - *HTML, JS, CSS*
+- *[Personal profile](https://github.com/Masego11/Module_8_TLAKHO601_FTO2403_Group-C_Tlalemasego-Khongoana_SDF08)*  - *HTML, JS, CSS*
+
 
 ## Get in touch
 
