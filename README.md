@@ -1,5 +1,5 @@
 # Tlalemasego Khongoana 
-I am a software development student with Codespace, I am also a 2nd year Bcom Information Technology student with Mancosa. I currently work as a trainee manager at an Engen 1-stop filling station. I currently hold a Diploma in Business Management and Entrepreneurship and a Certificate in Business Systems Analysis.
+I am a software development student with Codespace, I am also a 2nd year Bcom Information Technology student with Mancosa. I currently work as a trainee manager at an Engen 1-stop filling station. I currently hold a Diploma in Business Management and Entrepreneurship and a certificate in Business Systems Analysis.
 
 ## Skills and Experience
 - :computer: HTML
