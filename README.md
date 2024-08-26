@@ -8,7 +8,7 @@
 - :computer: HTML
 - :bookmark: CSS
 - :page_facing_up: JS
-- :Laptop: React
+- 📠: React
 
 ## Examples of work and languages used 
 
