@@ -8,6 +8,7 @@
 - :computer: HTML
 - :bookmark: CSS
 - :page_facing_up: JS
+- :fax_machine: React
 
 ## Examples of work and languages used 
 
