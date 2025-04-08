@@ -1,7 +1,7 @@
 # Tlalemasego Khongoana 
-- Software development graduate with Codespace.
-- 2nd year Bcom Information Technology Management student with Mancosa. 
-- Business systems analysis certificate with UCT.
+- Software Development graduate with Codespace Academy.
+- final year Bcom Information & Technology Management student with Mancosa. 
+- Business Systems Analysis Certificate with UCT.
 - Diploma Business Management and Entrepreneurship with Varstiy college.
 
 ## Skills and Experience
